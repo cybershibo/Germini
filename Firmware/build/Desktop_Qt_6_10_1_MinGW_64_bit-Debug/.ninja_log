@@ -1,0 +1,25 @@
+# ninja log v6
+39	199	7887436625850469	Germini-GUI_autogen/timestamp	cda32c477c4fdfd7
+39	199	7887436625850469	Germini-GUI_autogen/mocs_compilation.cpp	cda32c477c4fdfd7
+2659	2887	7887436652047183	Germini-GUI.exe	bd2f93c3d95372cd
+39	199	7887436625850469	C:/Users/cybershibo/Desktop/QtProjects/Desktop/Germini-GUI/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/Germini-GUI_autogen/timestamp	cda32c477c4fdfd7
+595	2457	7887436199827643	CMakeFiles/Germini-GUI.dir/Germini-GUI_autogen/mocs_compilation.cpp.obj	24e5e5c7e6fa0a95
+200	2659	7887436627469461	CMakeFiles/Germini-GUI.dir/mainwindow.cpp.obj	3f78365dccd7296a
+39	199	7887436625850469	C:/Users/cybershibo/Desktop/QtProjects/Desktop/Germini-GUI/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/Germini-GUI_autogen/mocs_compilation.cpp	cda32c477c4fdfd7
+598	2404	7887436199857722	CMakeFiles/Germini-GUI.dir/main.cpp.obj	2e12e7f9410204cb
+28	584	7887445131468377	Germini-GUI_autogen/timestamp	cda32c477c4fdfd7
+28	584	7887445131468377	Germini-GUI_autogen/mocs_compilation.cpp	cda32c477c4fdfd7
+28	584	7887445131468377	C:/Users/cybershibo/Desktop/QtProjects/Desktop/Germini-GUI/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/Germini-GUI_autogen/timestamp	cda32c477c4fdfd7
+28	584	7887445131468377	C:/Users/cybershibo/Desktop/QtProjects/Desktop/Germini-GUI/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/Germini-GUI_autogen/mocs_compilation.cpp	cda32c477c4fdfd7
+588	2387	7887445132197036	CMakeFiles/Germini-GUI.dir/main.cpp.obj	54171e2642f5eb65
+585	2430	7887445132166856	CMakeFiles/Germini-GUI.dir/Germini-GUI_autogen/mocs_compilation.cpp.obj	68ebf65468d927b2
+590	3007	7887445132222174	CMakeFiles/Germini-GUI.dir/mainwindow.cpp.obj	9e9baf422eb4bcdb
+3007	3242	7887445156386787	Germini-GUI.exe	bd2f93c3d95372cd
+12	530	7887448537354862	Germini-GUI_autogen/timestamp	cda32c477c4fdfd7
+12	530	7887448537354862	Germini-GUI_autogen/mocs_compilation.cpp	cda32c477c4fdfd7
+12	530	7887448537354862	C:/Users/cybershibo/Desktop/QtProjects/Desktop/Germini-GUI/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/Germini-GUI_autogen/timestamp	cda32c477c4fdfd7
+12	530	7887448537354862	C:/Users/cybershibo/Desktop/QtProjects/Desktop/Germini-GUI/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/Germini-GUI_autogen/mocs_compilation.cpp	cda32c477c4fdfd7
+534	2412	7887448538092368	CMakeFiles/Germini-GUI.dir/main.cpp.obj	54171e2642f5eb65
+531	2446	7887448538056040	CMakeFiles/Germini-GUI.dir/Germini-GUI_autogen/mocs_compilation.cpp.obj	68ebf65468d927b2
+537	3215	7887448538117902	CMakeFiles/Germini-GUI.dir/mainwindow.cpp.obj	9e9baf422eb4bcdb
+3215	3479	7887448564846843	Germini-GUI.exe	bd2f93c3d95372cd
